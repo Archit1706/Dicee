@@ -1,0 +1,39 @@
+body {
+    background-color: #393e46;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 6rem;
+    color: #4ecca3;
+    text-shadow: 5px 0 #232931;
+}
+
+p {
+    color: #4ecca3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+img {
+    width: 80%;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
